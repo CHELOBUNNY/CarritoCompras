@@ -1,0 +1,30 @@
+img{
+    transition:transform 1s;
+}
+img:hover{
+    transform : scale(1.5);
+    color: #a5a5a5;
+}
+.btn-danger{
+    margin-left: 15px;
+    transition: transform 0.5s;
+    color: #a5a5a5;
+}
+.btn2{    
+    transition: transform 0.5s;
+    color: #a5a5a5;
+}
+.btn:hover{
+    transform: scale(1.2);
+    color: #F7A6F2;
+}
+.nav-item
+{
+	color: #F7A6F2;
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark
+
+{
+	color: #F7A6F2;
+}

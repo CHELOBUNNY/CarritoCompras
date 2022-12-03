@@ -1,0 +1,16 @@
+img{
+    transition:transform 1s;
+}
+img:hover{
+    transform : scale(1.5);
+}
+
+.btn2{    
+    transition: transform 0.5s;
+    color: #a5a5a5;
+}
+.btn2:hover{
+    transform: scale(1.2);
+     color: F7A6F2;
+}
+
